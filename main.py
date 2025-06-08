@@ -9,7 +9,7 @@ from aiogram.types import Message, BufferedInputFile
 from neural import ChatNeural
 from gtts import gTTS
 
-bot = Bot(token="7592522068:AAHHk1PzsST8NMGNQIotwdfNQ7L8rgpV34w")
+bot = Bot(token="<YOU_BOT_TOKEN>")
 dp = Dispatcher()
 neural = ChatNeural()
 
